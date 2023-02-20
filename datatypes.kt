@@ -35,6 +35,9 @@ fun main() {
     val minE: Float=Float.MIN_VALUE
     println("Max Value= $maxD ,Min Value= $minD")
 
-    var myNamee= 23.5f //or 23.5F answer will be same
-    var myNameee=23.5
+    /*  Stand for float */ var myNamee= 23.5f //or 23.5F answer will be same 
+    /*  Stand for Double */ var myNameee=23.5
+
+     println("Float= $myNamee ,Double= $myNameee")
+
 }
