@@ -29,4 +29,12 @@ fun main() {
     //also we can initialize the value in Long
     val number= 28L
 
+    //Float and Double
+
+    val maxE: Float=Float.MAX_VALUE
+    val minE: Float=Float.MIN_VALUE
+    println("Max Value= $maxD ,Min Value= $minD")
+
+    var myNamee= 23.5f //or 23.5F answer will be same
+    var myNameee=23.5
 }
